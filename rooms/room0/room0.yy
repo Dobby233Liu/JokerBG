@@ -27,7 +27,7 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_742E03AF","id": "be32be17-3948-412f-8588-699c08d385d7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": true,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_742E03AF","objId": "e5fbcfb4-5c79-447b-9a74-914ad736f35c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0},
-{"name": "inst_10E0EDE7","id": "e3713563-0f40-4732-8c3a-1d0bd6fbe018","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_10E0EDE7","objId": "e5fbcfb4-5c79-447b-9a74-914ad736f35c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 448,"y": 0}
+{"name": "inst_10E0EDE7","id": "e3713563-0f40-4732-8c3a-1d0bd6fbe018","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_10E0EDE7","objId": "e5fbcfb4-5c79-447b-9a74-914ad736f35c","properties": null,"rotation": 0,"scaleX": -0.5238096,"scaleY": 0.2195122,"mvc": "1.0","x": 0,"y": 0}
             ],
             "layers": [
 
@@ -94,7 +94,7 @@
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 640
+        "Width": 645
     },
     "mvc": "1.0",
     "views": [
@@ -109,7 +109,7 @@
     ],
     "viewSettings":     {
         "id": "66a8b71b-378a-42e3-b283-b411f8476c5f",
-        "clearDisplayBuffer": true,
+        "clearDisplayBuffer": false,
         "clearViewBackground": false,
         "enableViews": false,
         "inheritViewSettings": false,

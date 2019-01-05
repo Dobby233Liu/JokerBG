@@ -30,9 +30,11 @@ if (keyboard_check_released(vk_escape)) {
 }
 if (keyboard_check_released(ord("B"))) {
     ini_open("chaoscarousel.ini");
+	ini_close()
     global.bgm = !global.bgm
     if (!global.bgm) audio_pause_all()
     else if (!global.notinitedbgm) audio_resume_all() else scr_bgm()
+	ini_open("chaoscarousel.ini");
     ini_write_real("global", "bgm", global.bgm)
     ini_close()
 }
@@ -65,3 +67,9 @@ if keyboard_check_pressed(ord("L"))
 //	ini_close();
 //	scr_bgm();
 // }
+if keyboard_check_pressed(ord("U"))
+{
+	global.alsoupdatebgm=1;
+	scr_updateui();
+	global.alsoupdatebgm=0;
+}
