@@ -1,0 +1,2 @@
+// lol
+game_restart()
