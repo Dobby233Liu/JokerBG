@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "8aaff2ea-a1e5-4da3-976a-a313e68bc614",
+            "Value": {
+                "id": "d3a0c6fd-839b-47c8-b1b7-a6a89ab4fc01",
+                "resourcePath": "sounds\\mus_joker_midi\\mus_joker_midi.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8dda0005-1eb5-4a07-b9c9-ab48864bdea6",
             "Value": {
                 "id": "1f63fd54-025d-4d82-975e-22cd4b4c62f5",
