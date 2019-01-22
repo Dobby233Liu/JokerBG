@@ -19,7 +19,7 @@
     </Icon>
     <ReleaseVersion>0</ReleaseVersion>
     <DisplayVersion>1.0.0</DisplayVersion>
-    <StartupUserAccount>None</StartupUserAccount>
+    <StartupUserAccount>Required</StartupUserAccount>
     <SupportedLanguage>AmericanEnglish</SupportedLanguage>
     <Screenshot>Allow</Screenshot>
     <DataLossConfirmation>None</DataLossConfirmation>
